@@ -21,7 +21,6 @@ public class Person {
     private int yearOfBirth;
 
     public Person() {
-
     }
     public Person(int id, String name, String surname, String patronymic, int yearOfBirth) {
         this.id = id;
